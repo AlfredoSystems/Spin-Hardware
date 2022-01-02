@@ -546,13 +546,13 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J20
 U 1 1 613507A3
-P 2750 5500
-F 0 "J20" H 2830 5492 50  0000 L CNN
-F 1 "FT_switch" H 2830 5401 50  0000 L CNN
-F 2 "lib_fp:FT_Switch_Vertical" H 2750 5500 50  0001 C CNN
-F 3 "~" H 2750 5500 50  0001 C CNN
-F 4 "~" H 2750 5500 50  0001 C CNN "LCSC"
-	1    2750 5500
+P 2750 5750
+F 0 "J20" H 2830 5742 50  0000 L CNN
+F 1 "FT_switch" H 2830 5651 50  0000 L CNN
+F 2 "lib_fp:FT_Switch_Vertical" H 2750 5750 50  0001 C CNN
+F 3 "~" H 2750 5750 50  0001 C CNN
+F 4 "~" H 2750 5750 50  0001 C CNN "LCSC"
+	1    2750 5750
 	1    0    0    1   
 $EndComp
 $Comp
@@ -604,13 +604,13 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J21
 U 1 1 613BC98F
-P 2750 5750
-F 0 "J21" H 2830 5742 50  0000 L CNN
-F 1 "Battery High" H 2830 5651 50  0000 L CNN
-F 2 "lib_fp:TGD-AMASS_XT30PW-M" H 2750 5750 50  0001 C CNN
-F 3 "~" H 2750 5750 50  0001 C CNN
-F 4 "~" H 2750 5750 50  0001 C CNN "LCSC"
-	1    2750 5750
+P 2750 5500
+F 0 "J21" H 2830 5492 50  0000 L CNN
+F 1 "Battery High" H 2830 5401 50  0000 L CNN
+F 2 "lib_fp:TGD-AMASS_XT30PW-M" H 2750 5500 50  0001 C CNN
+F 3 "~" H 2750 5500 50  0001 C CNN
+F 4 "~" H 2750 5500 50  0001 C CNN "LCSC"
+	1    2750 5500
 	1    0    0    1   
 $EndComp
 Text GLabel 15850 3650 2    50   Input ~ 0
@@ -1127,7 +1127,7 @@ Wire Wire Line
 	12450 3600 12350 3600
 Connection ~ 12400 3000
 Text Notes 850  4100 0    50   ~ 0
-TODO:\nMCU with FPU                     done\nfix LEDs                           done\nnew prog header\nUSB debugging\nImprove all footprints\nsmarter pin breakouts\nmore status LEDs\nremovable sx1276 receive\nremovable current limiting - https://www.powerctc.com/en/node/4564\n\nKaiz:\nconfim vsns good\nconfirm flash chip good
+TODO:\nMCU with FPU               done\nfix LEDs\nnew prog header\nconfim vsns good\nconfirm flash chip good\nUSB debugging\nImprove all footprints\nsmarter pin breakouts\n\nAST3:\ncurrent limiting - https://www.powerctc.com/en/node/4564\nsx1276 receive
 Wire Wire Line
 	8850 -700 8850 -900
 Wire Wire Line
@@ -1350,7 +1350,7 @@ F 0 "R18" H 8600 -1300 50  0000 C CNN
 F 1 "10K" H 8600 -1200 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 8380 -1250 50  0001 C CNN
 F 3 "" H 8450 -1250 50  0001 C CNN
-F 4 "C25804" H 8450 -1250 50  0001 C CNN "LCSC"
+F 4 "" H 8450 -1250 50  0001 C CNN "LCSC"
 	1    8450 -1250
 	1    0    0    -1  
 $EndComp
@@ -1362,7 +1362,7 @@ F 0 "R19" H 8100 -900 50  0000 C CNN
 F 1 "10K" H 8100 -800 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 7880 -850 50  0001 C CNN
 F 3 "" H 7950 -850 50  0001 C CNN
-F 4 "C25804" H 7950 -850 50  0001 C CNN "LCSC"
+F 4 "" H 7950 -850 50  0001 C CNN "LCSC"
 	1    7950 -850
 	1    0    0    -1  
 $EndComp
@@ -1378,8 +1378,8 @@ P 8950 -1650
 F 0 "R17" H 9100 -1700 50  0000 C CNN
 F 1 "10K" H 9100 -1600 50  0000 C CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" V 8880 -1650 50  0001 C CNN
-F 3 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.html" H 8950 -1650 50  0001 C CNN
-F 4 "C25804" H 8950 -1650 50  0001 C CNN "LCSC"
+F 3 "" H 8950 -1650 50  0001 C CNN
+F 4 "" H 8950 -1650 50  0001 C CNN "LCSC"
 	1    8950 -1650
 	1    0    0    -1  
 $EndComp
