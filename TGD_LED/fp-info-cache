@@ -1,0 +1,50 @@
+11367643420113
+lib_fp
+PinHeader_1x03_P2.54mm_Vertical_TGD
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+lib_fp
+Power-DFN-3x3A
+8-Lead Plastic Dual Flat, No Lead Package (MF) - 3x3x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)
+DFN 0.65
+0
+12
+10
+lib_fp
+R50RB2-F-0160
+
+
+0
+4
+4
+lib_fp
+SolderJumper-2_P-small
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+lib_fp
+TF-SMD_TF-015
+
+
+0
+13
+13
+lib_fp
+TFLGA-16_3x3mm
+http://www.st.com/content/ccc/resource/technical/document/datasheet/3e/48/02/c7/a4/e6/41/bb/DM00053090.pdf/files/DM00053090.pdf/jcr:content/translations/en.DM00053090.pdf
+
+0
+16
+16
+lib_fp
+USB_Micro-B_uxcell
+http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf
+Micro-USB SMD Typ-B
+0
+7
+6

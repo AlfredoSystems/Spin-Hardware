@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name TGD)(type Legacy)(uri ${KIPRJMOD}/lib_sch/TGD.lib)(options "")(descr ""))
+  (lib (name TGD-rescue)(type Legacy)(uri ${KIPRJMOD}/TGD-rescue.lib)(options "")(descr ""))
+)
