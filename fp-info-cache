@@ -1,4 +1,4 @@
-22776810387040
+29354858167770
 lib_fp
 FT_Switch_Vertical
 
@@ -6,6 +6,13 @@ FT_Switch_Vertical
 0
 2
 2
+lib_fp
+G-Switch-ST-TRRS
+
+
+0
+7
+7
 lib_fp
 PinHeader_1x03_P2.54mm_Vertical_TGD
 Through hole straight pin header, 1x03, 2.54mm pitch, single row
@@ -56,6 +63,13 @@ RC Connector XT30
 4
 2
 lib_fp
+TGD-ESC-CYCLONE-35A
+
+
+0
+4
+2
+lib_fp
 TGD_ESC_PwrPad
 
 
@@ -68,6 +82,13 @@ TGD_ESC_PwrPad2
 
 0
 6
+1
+lib_fp
+TGD_ESC_SigPad
+
+
+0
+2
 1
 lib_fp
 TGD_ESC_SigPads
@@ -87,6 +108,13 @@ lib_fp
 TGD_Power_In
 
 
+0
+2
+2
+lib_fp
+TGD_SolderJumper
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
 0
 2
 2
