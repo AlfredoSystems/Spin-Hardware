@@ -2246,7 +2246,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 721d1be9-236e-470b-ba69-f1cc6c43faf9)
   )
-  (text "TODO:\nsmarter pin breakouts\nfix vsns resitor\nremovable current limiting - https://www.powerctc.com/en/node/4564\n\nDONE:\nMCU with FPU\nfix LEDs\nremovable sx1276 receive\nfor usb debuging, have OTG and TTL->RS232 option\n3.5mm audio jack for prog and debug\nmore status LEDs\nMake TRRS Footprint\nrename labels (ie. F_PPM -> PPM_F)\nImprove all footprints\n"
+  (text "TODO:\nsmarter pin breakouts (testpoints?)\nremovable current limiting - https://www.powerctc.com/en/node/4564\njumper for radius setting\n\nDONE:\nMCU with FPU\nfix LEDs\nremovable sx1276 receive\nfor usb debuging, have OTG and TTL->RS232 option\n3.5mm audio jack for prog and debug\nmore status LEDs\nMake TRRS Footprint\nrename labels (ie. F_PPM -> PPM_F)\nImprove all footprints\n"
     (at -73.66 121.92 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 888fd7cb-2fc6-480c-bcfa-0b71303087d3)
