@@ -2253,11 +2253,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 721d1be9-236e-470b-ba69-f1cc6c43faf9)
   )
-  (text "TODO:\nsmarter pin breakouts (testpoints?)\nremovable current limiting - https://www.powerctc.com/en/node/4564\njumper for radius setting\n"
-    (at 24.13 189.865 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 888fd7cb-2fc6-480c-bcfa-0b71303087d3)
-  )
   (text "1-9 STM32F030\n10-19 LED stuff\n20-29 3.3V regulator\n30-39 A - H3LI\n40-49 M - Flash\n50-59    Sensing\n60-89 L - SX1276"
     (at 20.955 31.115 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
