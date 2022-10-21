@@ -15,6 +15,6 @@ Control system PCB files for The Greatest Danger and The Greatest Challenge. Thi
 * TRRS jack provides swift and robust Serial Wire Debug (SWD) programming interface
 
 ## Why you shouldn't make one of these
-1. The LoRa wireless system is put together pretty much from scratch. They simply don't sell handheld LoRa transmitters. We made one ourselves, a process I do not recommend  to anyone. We also have to make custom antenna for each board.
-2. Spin-Sonic was designed to be assembled by JLCPCB, unfortunately JLC does not stock 400g accelerometers. I had to solder the H3LIS331DL's after the fact, a process that was tedious and unreliable.
-3. Using a TRRS connector (audio jack) for the programming interface does make rapid code testing easier, we just had to make a custom programming cable which is a pain.
+1. The LoRa wireless system is put together pretty much from scratch. They don't really sell handheld LoRa transmitters. We made one ourselves, a process I do not recommend to anyone. We also have to make custom antenna for each board.
+2. Spin-Sonic was designed to be assembled by JLCPCB, unfortunately JLC does not stock 400g accelerometers. H3LIS331DL's had to be soldered after the fact, a process that can be tedious and unreliable.
+3. Using a TRRS connector (audio jack) for the programming interface does make rapid code testing easier, but we did have to make a custom programming cable which is a pain.
