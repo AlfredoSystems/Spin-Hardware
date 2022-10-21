@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Spin-Eggman")
+    (date "2022-10-20")
+    (rev "V2.0.0")
+    (company "Alfredo")
+  )
+
   (lib_symbols
     (symbol "AlfredoSymbols:INA185A" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 8.89 3.81 0)
@@ -768,7 +775,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1a4c929c-8018-46b3-b212-5613bf15a764)
   )
-  (text "TODO:\ncurrent sensing\nremovable current limiting - https://www.powerctc.com/en/node/4564\n\nErrata:\nJUST FLIP AN ESC UPSIDE DOWN TO FIX TOPOLOGY ISSUES\nInvestigate using traces with vias for high current\n10mm 2oz traces on both layers should carry enough current\nOR route all non-trace wires (2.5mm) on back side\nraise signal wire ziptie holes\nXT-30 FP polarity is wrong\n"
+  (text "TODO:\nstartup current limiting - https://www.powerctc.com/en/node/4564\n\nErrata:\nFlip an ESC upside down to fix topology issue\nInvestigate using traces with vias for high current\n10mm 2oz traces on both layers should carry enough current\nOR route all non-trace wires (2.5mm) on back side\nraise signal wire ziptie holes\nXT-30 FP polarity is wrong\n"
     (at 15.24 36.83 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 888fd7cb-2fc6-480c-bcfa-0b71303087d3)

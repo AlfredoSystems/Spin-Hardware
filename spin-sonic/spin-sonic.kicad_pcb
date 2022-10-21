@@ -2423,11 +2423,6 @@
       (net 17 "P_MISO") (pinfunction "Pin_5") (pintype "passive") (tstamp 9b0983c3-aba8-4111-96de-9511d4c5435a))
     (pad "6" thru_hole oval locked (at 0 12.7 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 20 "P_SCK") (pinfunction "Pin_6") (pintype "passive") (tstamp 6beaf8cb-5b44-4e8d-90a3-f34694453200))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
