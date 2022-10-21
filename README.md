@@ -4,7 +4,7 @@ Control system PCB files for The Greatest Danger and The Greatest Challenge. Thi
 > ⚠️ This design is public so the curious can reference it, I don't recommend anyone try to reproduce these boards. Learn more at the bottom of this page.
 
 <p align="">
-<img src="TGD-Electronics.jpg"  height="250px"><img src="Spin-Sonic-PCB.png"  height="250px">
+<img src="images/TGD-Electronics.jpg"  height="250px"><img src="images/Spin-Sonic-PCB.png"  height="250px">
 </p>
 
 ## Spin-Sonic Features
